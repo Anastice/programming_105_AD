@@ -1,2 +1,2 @@
-# programming1k_105AD
+# Programming_105
 by Anastasiia Diadenko (6)
